@@ -1,0 +1,3 @@
+const searchBar = () => {
+  return <input />;
+};
